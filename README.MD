@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlcmathias" alt="mlcmathias" /></a> </p>
 
-- 🔭 I’m currently working on **Denver Tech**
+- 🔭 I’m currently working on **Control web**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dev-mlc.netlify.app/](https://portfolio-dev-mlc.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-dev-mlc.netlify.app/]
 
 - 📫 How to reach me **mathias_mlc@outlook.com.ar**
 
