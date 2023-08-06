@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias mlc</h1>
-<h3 align="center">Frontend Developer from Argentina</h3>
+<h3 align="center">Wed Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlcmathias&label=Profile%20views&color=0e75b6&style=flat" alt="mlcmathias" /> </p>
 
